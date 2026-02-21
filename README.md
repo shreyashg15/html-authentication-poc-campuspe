@@ -37,4 +37,11 @@ Reset Password → Login
 Dashboard Logout → Login  
 
 
+## How to Use
+
+1. Open Index.html/login.html in a browser.
+2. Navigate between pages using the buttons and links.
+
+-----
+
 This project is created as part of the CampusPe HTML Authentication System Assignment.
