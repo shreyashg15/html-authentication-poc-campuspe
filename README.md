@@ -1,47 +1,94 @@
-"# html-authentication-poc-campuspe" 
+# Authentication System Styled (Bootstrap Version)
 
-# HTML Authentication System POC
+## 📌 Project Overview
 
-## Project Description
+This project is a fully styled Authentication System developed as part of the **CampusPe Fullstack Java Development Assignment 2**.
 
-This project is a simple HTML-based Authentication System Proof of Concept (POC).
+The application consists of 5 responsive authentication pages designed using **Bootstrap 5, Custom CSS, and JavaScript**.
 
-It contains 5 basic HTML pages demonstrating navigation between authentication-related pages using anchor tags.
+This project transforms a basic HTML authentication system into a **professional, responsive, and visually appealing UI application**.
 
-## Pages Included
-1. Index.html
-2. login.html
-3. register.html
-4. forgot-password.html
-5. reset-password.html
-6. dashboard.html
+---
 
-## Features
-- Simple index page conatains two buttons - login & register
-- Simple Login Page
-- User Registration Page
-- Forgot Password Page
+## 🚀 Features
+
+- Responsive Login Page
+- Responsive Registration Page
+- Forgot Password Flow
 - Reset Password Page
-- Dashboard Page
-- Logout functionality
-- All redirections done using anchor tags
-- No CSS & JS used
+- Dashboard Page with Navbar
+- Password Visibility Toggle
+- Password Strength Indicator
+- Dark Mode Toggle
+- Custom Styling using CSS
+- Bootstrap Card Based Layout
+- Mobile Responsive Design
+- Clean Navigation Flow
 
+---
 
-## Redirection Flow
-Index → login or register
-Login → Dashboard  
-Forgot Password → Login  
-Register → Login  
-Reset Password → Login  
-Dashboard Logout → Login  
+## 🛠 Technologies Used
 
+- HTML5
+- CSS3
+- Bootstrap 5
+- Bootstrap Icons
+- JavaScript
+- Google Fonts
 
-## How to Use
+---
 
-1. Open Index.html/login.html in a browser.
-2. Navigate between pages using the buttons and links.
+## 📱 Responsive Support
 
------
+This application is fully responsive and tested on:
 
-This project is created as part of the CampusPe HTML Authentication System Assignment.
+- Desktop (1920px and above)
+- Laptop (1366px - 1920px)
+- Tablet (768px - 1024px)
+- Mobile (320px - 767px)
+
+---
+
+## 📂 Project Structure
+authentication-system-styled/
+│
+├── index.html
+├── register.html
+├── forgot-password.html
+├── reset-password.html
+├── dashboard.html
+├── styles.css
+├── script.js
+│
+└── screenshots/
+├── login.png
+├── register.png
+├── forgot.png
+├── reset.png
+├── dashboard.png
+---
+
+## 📸 Screenshots
+
+All page screenshots are available inside the **screenshots folder**.
+
+---
+
+## 🎯 Assignment Objectives Achieved
+
+- Bootstrap Integration on all pages
+- Professional UI Design
+- Custom CSS Styling
+- Responsive Layout
+- Interactive UI Features
+- Clean Code Structure
+- Proper Navigation Flow
+
+---
+
+## 👨‍💻 Author
+
+Assignment Submission  
+CampusPe Fullstack Java Development Course BY - Shreyas H G
+
+Mentor: Jacob Dennis
