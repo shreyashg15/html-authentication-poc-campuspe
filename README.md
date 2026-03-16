@@ -50,6 +50,9 @@ This application is fully responsive and tested on:
 ---
 
 ## 📂 Project Structure
+## 📁 Project Structure
+
+```
 authentication-system-styled/
 │
 ├── index.html
@@ -61,11 +64,13 @@ authentication-system-styled/
 ├── script.js
 │
 └── screenshots/
-├── login.png
-├── register.png
-├── forgot.png
-├── reset.png
-├── dashboard.png
+    ├── login.png
+    ├── register.png
+    ├── forgot.png
+    ├── reset.png
+    └── dashboard.png
+```
+
 ---
 
 ## 📸 Screenshots
